@@ -1,0 +1,13 @@
+{
+  "base_url": "https://discord.com/api/v9",
+  "max_messages_per_channel": 1000000,
+  "token": "********",
+  "guilds": [
+    {
+      "id": "********",
+      "all": true,
+      "channels": [],
+      "blacklist": []
+    }
+  ]
+}
